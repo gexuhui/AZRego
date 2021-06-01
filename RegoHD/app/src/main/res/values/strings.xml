@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RegoHD</string>
+    <string name="know_more">ScrollView绝对是各种教材、教程都或多或少遗漏的一个非常重要的视图。凡是这个界面的组成非常不规则，而且竖直方向长度不够就肯定需要使用Scrollview了。因为ListView处理的是规则的内容。至于带视差效果的滚动自然是ScrollView的产物。本文会通过一个简单的例子，讲述如何使用Scrollview</string>
+    <string name="title">Android的ScrollView示例</string>
+    <string name="content">多数的Android应用都会出现内容尺寸超出屏幕的情况。比如一则新闻页，有配图，在配图下可以点击按钮了解更多，有标题，最后是全部的新闻内容，假设这则内容是勇士打败骑士队后詹姆斯又跑去哪里抱大腿的新闻。那么ListView显然不是最好的选择，但是一般的Layout，比如LinearLayout、RelativeLayout或者FrameLayout之类Layout也没法用。最后就只有ScrollView可以解决问题了。多数的Android应用都会出现内容尺寸超出屏幕的情况。比如一则新闻页，有配图，在配图下可以点击按钮了解更多，有标题，最后是全部的新闻内容，假设这则内容是勇士打败骑士队后詹姆斯又跑去哪里抱大腿的新闻。那么ListView显然不是最好的选择，但是一般的Layout，比如LinearLayout、RelativeLayout或者FrameLayout之类Layout也没法用。最后就只有ScrollView可以解决问题了多数的Android应用都会出现内容尺寸超出屏幕的情况。比如一则新闻页，有配图，在配图下可以点击按钮了解更多，有标题，最后是全部的新闻内容，假设这则内容是勇士打败骑士队后詹姆斯又跑去哪里抱大腿的新闻。那么ListView显然不是最好的选择，但是一般的Layout，比如LinearLayout、RelativeLayout或者FrameLayout之类Layout也没法用。最后就只有ScrollView可以解决问题了多数的Android应用都会出现内容尺寸超出屏幕的情况。比如一则新闻页，有配图，在配图下可以点击按钮了解更多，有标题，最后是全部的新闻内容，假设这则内容是勇士打败骑士队后詹姆斯又跑去哪里抱大腿的新闻。那么ListView显然不是最好的选择，但是一般的Layout，比如LinearLayout、RelativeLayout或者FrameLayout之类Layout也没法用。最后就只有ScrollView可以解决问题了</string>
+</resources>
